@@ -1,0 +1,11 @@
+{
+  "name": "yelphelp",
+  "version": "1.0.0",
+  "description": "A bot that does useful things",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "William Taylor-Holubeshen",
+  "license": "ISC"
+}
